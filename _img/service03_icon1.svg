@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94.817" height="57.907" viewBox="0 0 94.817 57.907">
+  <g id="icon" transform="translate(-271.696 -8157.257)">
+    <path id="パス_2302" data-name="パス 2302" d="M272.65,8174.438c0,8.6,13.093,27.243,13.093,27.243s13.092-18.645,13.092-27.243-5.862-15.568-13.092-15.568S272.65,8165.84,272.65,8174.438Z" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="1.908"/>
+    <ellipse id="楕円形_41" data-name="楕円形 41" cx="6.546" cy="6.811" rx="6.546" ry="6.811" transform="translate(279.196 8166.116)" fill="#1c837a"/>
+    <ellipse id="楕円形_42" data-name="楕円形 42" cx="3.741" cy="3.892" rx="3.741" ry="3.892" transform="translate(282.002 8206.427)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.908"/>
+    <ellipse id="楕円形_43" data-name="楕円形 43" cx="3.741" cy="3.892" rx="3.741" ry="3.892" transform="translate(345.946 8174.739)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.908"/>
+    <path id="パス_2303" data-name="パス 2303" d="M289.483,8210.319h54.593a7.637,7.637,0,0,0,7.481-7.784h0a7.637,7.637,0,0,0-7.481-7.784H317.89a7.637,7.637,0,0,1-7.481-7.784v-.552a7.637,7.637,0,0,1,7.481-7.784h28.056" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.908"/>
+    <line id="線_313" data-name="線 313" y1="16.529" transform="translate(349.687 8158.211)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.908"/>
+    <path id="パス_2304" data-name="パス 2304" d="M364.65,8165.995H349.687v-7.784H364.65l-2.806,3.892Z" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="1.908"/>
+  </g>
+</svg>

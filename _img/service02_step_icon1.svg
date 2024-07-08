@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <g id="_01_icon" data-name="01_icon" transform="translate(-317.802 -3030.054)">
+    <g id="長方形_1980" data-name="長方形 1980" transform="translate(356.202 3074.854) rotate(-45)" fill="#fff" stroke="#08bf97" stroke-width="2">
+      <rect width="9.051" height="27.153" stroke="none"/>
+      <rect x="1" y="1" width="7.051" height="25.153" fill="none"/>
+    </g>
+    <g id="楕円形_51" data-name="楕円形 51" transform="translate(317.802 3058.854) rotate(-45)" fill="#fff" stroke="#08bf97" stroke-width="2">
+      <circle cx="20.365" cy="20.365" r="20.365" stroke="none"/>
+      <circle cx="20.365" cy="20.365" r="19.365" fill="none"/>
+    </g>
+    <g id="楕円形_50" data-name="楕円形 50" transform="translate(325.802 3058.855) rotate(-45)" fill="#fff" stroke="#08bf97" stroke-width="2">
+      <circle cx="14.708" cy="14.708" r="14.708" stroke="none"/>
+      <circle cx="14.708" cy="14.708" r="13.708" fill="none"/>
+    </g>
+  </g>
+</svg>
